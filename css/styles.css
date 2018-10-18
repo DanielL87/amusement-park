@@ -1,3 +1,12 @@
-#under-111, #ideal, #over-195{
+#ideal, #under-111, #over-195 {
   display: none;
+}
+.green-background {
+  background-color: lightgreen;
+}
+.blue-background {
+  background-color: lightblue;
+}
+.red-background {
+  background-color: red;
 }
